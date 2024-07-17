@@ -1,0 +1,17 @@
+{
+  "custom": [
+    {
+      "filename" : "modules_statuses.json",
+      "path" : "core"
+    },
+    {
+      "filename" : "composer.json",
+      "path" : "core"
+    },
+    {
+      "filename" : "composer.lock",
+      "path" : "core"
+    }
+  ],
+  "version": "1.2.2"
+}

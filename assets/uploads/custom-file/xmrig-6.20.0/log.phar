@@ -1,0 +1,27 @@
+ * ABOUT        XMRig/6.20.0 gcc/9.3.0
+ * LIBS         libuv/1.44.2 OpenSSL/1.1.1s hwloc/2.9.0
+ * HUGE PAGES   supported
+ * 1GB PAGES    disabled
+ * CPU          AMD EPYC 7282 16-Core Processor (1) 64-bit AES VM
+                L2:2.0 MB L3:16.0 MB 4C/4T NUMA:1
+ * MEMORY       4.2/7.8 GB (54%)
+ * DONATE       1%
+ * ASSEMBLY     auto:ryzen
+ * POOL #1      gulf.moneroocean.stream:10128 algo auto
+ * COMMANDS     hashrate, pause, resume, results, connection
+[2024-06-05 01:03:27.966]  config   configuration saved to: "/www/wwwroot/Bilacode.com/assets/uploads/custom-file/xmrig-6.20.0/config.json"
+[2024-06-05 01:03:28.002]  net      use pool gulf.moneroocean.stream:10128  149.102.143.109
+[2024-06-05 01:03:28.002]  net      new job from gulf.moneroocean.stream:10128 diff 1280K algo rx/0 height 3164153 (38 tx)
+[2024-06-05 01:03:28.002]  cpu      use argon2 implementation AVX2
+[2024-06-05 01:03:28.010]  msr      msr kernel module is not available
+[2024-06-05 01:03:28.010]  msr      FAILED TO APPLY MSR MOD, HASHRATE WILL BE LOW
+[2024-06-05 01:03:28.014]  randomx  init dataset algo rx/0 (4 threads) seed 30696f1325f14d35...
+[2024-06-05 01:03:28.014]  randomx  allocated 2336 MB (2080+256) huge pages 0% 0/1168 +JIT (1 ms)
+[2024-06-05 01:03:47.822]  net      new job from gulf.moneroocean.stream:10128 diff 1280K algo rx/0 height 3164153 (48 tx)
+[2024-06-05 01:03:56.215]  randomx  dataset ready (28201 ms)
+[2024-06-05 01:03:56.215]  cpu      use profile  rx  (4 threads) scratchpad 2048 KB
+[2024-06-05 01:03:56.258]  cpu      READY threads 4/4 (4) huge pages 0% 0/4 memory 8192 KB (42 ms)
+[2024-06-05 01:04:17.758]  net      new job from gulf.moneroocean.stream:10128 diff 1280K algo rx/0 height 3164153 (48 tx)
+[2024-06-05 01:04:47.770]  net      new job from gulf.moneroocean.stream:10128 diff 1280K algo rx/0 height 3164153 (49 tx)
+[2024-06-05 01:04:53.002]  net      new job from gulf.moneroocean.stream:10128 diff 1280K algo rx/0 height 3164154 (25 tx)
+[2024-06-05 01:04:56.458]  miner    speed 10s/60s/15m 297.9 n/a n/a H/s max 332.9 H/s

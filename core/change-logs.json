@@ -1,0 +1,21 @@
+{
+  "custom": [
+    {
+      "filename" : "package-lock.json",
+      "path" : "core"
+    },
+    {
+      "filename" : "package.json",
+      "path" : "core"
+    },
+    {
+      "filename" : "composer.json",
+      "path" : "core"
+    },
+    {
+      "filename" : "composer.lock",
+      "path" : "core"
+    }
+  ],
+  "version": "2.2.0"
+}
